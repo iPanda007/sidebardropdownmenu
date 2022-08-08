@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Main from './component/Main'
 const App = () => {
   return (
-    <div className='md:text-lg xl:text-2xl'>
-      Aung Kyaw Khaing
+    <div>
+        <Main/>
     </div>
   )
 }
