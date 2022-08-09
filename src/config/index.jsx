@@ -1,4 +1,4 @@
-[
+ export const items=[
     {
         "title": "General",
         "icon": "bi-gear-fill",
@@ -124,3 +124,4 @@
         "path": "/report-bug"
     }
 ]
+
